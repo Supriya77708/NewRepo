@@ -1,0 +1,10 @@
+class Add{
+public static void main(String[]args){
+system.out.println("Enter two numbers");
+int x = 10;
+int y = 20;
+system.out.println(x + " " + y);
+int c = x+y;
+system.out.println("The sum is : " + sum);
+}
+}
